@@ -1,0 +1,52 @@
+Id,Id2,Geography,Id,Population Group,Pop_total,Married,Has_child,Separated_Married,Widowed,Divorced,Never_Married
+0400000US01,1,Alabama,1,Total population,4863300,46.7,30.2,46.9,7.2,12.6,31
+0400000US02,2,Alaska,1,Total population,741894,49.2,32.4,47.5,3.5,11.2,36
+0400000US04,4,Arizona,1,Total population,6931071,47.4,29.8,46.8,5.7,12.5,33.3
+0400000US05,5,Arkansas,1,Total population,2988248,48.1,29.2,48.9,6.9,13.5,28.1
+0400000US06,6,California,1,Total population,39250017,49.5,31.7,46.5,5,9.4,37
+0400000US08,8,Colorado,1,Total population,5540545,49.9,28.2,50.4,4.4,11.8,32
+0400000US09,9,Connecticut,1,Total population,3576452,47.8,30.3,46.9,5.8,10.8,35.2
+0400000US10,10,Delaware,1,Total population,952065,47.7,29.8,46.6,6,11.2,34.4
+0400000US11,11,District of Columbia,1,Total population,681170,25.3,24.5,28.3,4.3,8.9,56.6
+0400000US12,12,Florida,1,Total population,20612439,46.4,28.7,45.8,6.9,13.1,31.8
+0400000US13,13,Georgia,1,Total population,10310371,47.4,31.8,46.6,5.6,11.5,34.1
+0400000US15,15,Hawaii,1,Total population,1428557,51.8,28.4,49.3,6.5,9.1,33.8
+0400000US16,16,Idaho,1,Total population,1683140,53.8,31.7,53.9,4.9,12.4,27.6
+0400000US17,17,Illinois,1,Total population,12801539,47,31.2,47.1,5.9,10,35.5
+0400000US18,18,Indiana,1,Total population,6633053,48.4,30.1,48.6,5.9,12.6,31.5
+0400000US19,19,Iowa,1,Total population,3134693,50.6,28.2,52.2,6.1,10.8,29.8
+0400000US20,20,Kansas,1,Total population,2907289,50.1,30.5,51,6,11.6,30.1
+0400000US21,21,Kentucky,1,Total population,4436974,47.3,28.9,48.2,6.7,13.2,29.7
+0400000US22,22,Louisiana,1,Total population,4681666,42.7,32,42.5,6.2,12.3,36.4
+0400000US23,23,Maine,1,Total population,1331479,48.2,26.5,48.7,6.5,14.6,29.1
+0400000US24,24,Maryland,1,Total population,6016447,47.4,30.7,46.4,5.5,10.1,35.8
+0400000US25,25,Massachusetts,1,Total population,6811779,46.3,29.3,45.8,5.5,9.5,37.5
+0400000US26,26,Michigan,1,Total population,9928300,46.8,29.4,47.5,6,11.8,33.4
+0400000US27,27,Minnesota,1,Total population,5519952,50.3,29.4,51.3,5.2,10.3,32.2
+0400000US28,28,Mississippi,1,Total population,2988726,44.9,31.9,44.3,7.1,11.4,34.2
+0400000US29,29,Missouri,1,Total population,6093000,48,29,48.8,6.5,12.1,30.8
+0400000US30,30,Montana,1,Total population,1042520,49.9,26.9,51.6,5.7,12.4,29.2
+0400000US31,31,Nebraska,1,Total population,1907116,49.4,29.8,51.7,6.1,10.6,30.5
+0400000US32,32,Nevada,1,Total population,2940058,44.4,30.2,44.3,5.3,14.2,33.9
+0400000US33,33,New Hampshire,1,Total population,1334795,52.1,26.8,51.3,5.7,12.1,29.8
+0400000US34,34,New Jersey,1,Total population,8944469,50.8,32.4,48.6,5.9,8.6,34.9
+0400000US35,35,New Mexico,1,Total population,2081015,44.1,31.1,44.2,6.1,13.2,34.8
+0400000US36,36,New York,1,Total population,19745289,43.8,30.6,44.1,5.9,8.8,38.8
+0400000US37,37,North Carolina,1,Total population,10146788,48,29.4,48.4,6.1,10.8,31.9
+0400000US38,38,North Dakota,1,Total population,757953,47.7,26.7,52,5.5,9.8,31.8
+0400000US39,39,Ohio,1,Total population,11614373,45.9,28.9,47.4,6.3,12.2,32.5
+0400000US40,40,Oklahoma,1,Total population,3923561,48.3,30.2,48.9,6.4,13.3,29.2
+0400000US41,41,Oregon,1,Total population,4093465,48.7,27.2,48.9,5.5,13.1,31
+0400000US42,42,Pennsylvania,1,Total population,12784227,47.4,29.2,47.1,6.7,9.9,34.2
+0400000US44,44,Rhode Island,1,Total population,1056426,42.3,29.3,42.7,6.2,12.4,37.2
+0400000US45,45,South Carolina,1,Total population,4961119,46.4,29.5,46.2,7,11.1,32.7
+0400000US46,46,South Dakota,1,Total population,865454,49.3,29.7,50.5,6.1,10.5,31.8
+0400000US47,47,Tennessee,1,Total population,6651194,47.8,29,48.4,6.3,12.7,30.3
+0400000US48,48,Texas,1,Total population,27862596,49.9,33.4,48.7,5.1,10.6,33.1
+0400000US49,49,Utah,1,Total population,3051217,61.3,37,54.9,3.6,9.1,30.7
+0400000US50,50,Vermont,1,Total population,624594,47.2,24.9,47.9,6.3,13.2,31.6
+0400000US51,51,Virginia,1,Total population,8411808,49.9,29.4,49.4,5.5,10.1,32.5
+0400000US53,53,Washington,1,Total population,7288000,50.2,28.4,50.4,4.9,11.9,31.4
+0400000US54,54,West Virginia,1,Total population,1831102,48.1,27.4,48.7,7.7,13.9,28.1
+0400000US55,55,Wisconsin,1,Total population,5778709,48.5,28.3,50,5.6,10.9,32.5
+0400000US56,56,Wyoming,1,Total population,585501,52.3,28.5,53,5.1,12.9,27.5

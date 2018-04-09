@@ -1,0 +1,51 @@
+h1 {
+	display: block;
+	font-size: 4em;
+	color: #800000;
+	font-family: "Arial", sans-serif;
+}
+
+h2 {
+	display: block;
+	font-size: 0.89em;
+	color: #000000;
+	font-family: "Arial", sans-serif;
+}
+
+.axis path,
+.axis line {
+	fill:none;
+	stroke: black;
+	stroke-width: 1.15px;
+	shape-rendering: crispEdges;
+}
+
+.axis text {
+	font-family: "Arial", sans-serif;
+	font-size: 0.85em;
+}
+
+.title {
+	font-family: "Arial", sans-serif;
+	font-size: 1.25em;
+}
+
+.states {
+	fill: #696969;
+	stroke: #000000;
+	stroke-width: 1.75px;
+}
+
+.gratLines {
+	fill:none;
+	stroke: #F0FFFF;
+	stroke-width: 1px;
+}
+
+.gratBackground{
+	fill: #ADD8E6;
+}
+
+.map {
+	border: solid #999;
+}
